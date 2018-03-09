@@ -6,7 +6,142 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc342a2-bb07-4037-a300-28413dbad667" name="Default" comment="" />
+    <list default="true" id="bfc342a2-bb07-4037-a300-28413dbad667" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/MD5Util.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/common/Result.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/common/ResultGenerator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/controller/ControllerUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/enums/ResultCodeEnum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/service/UserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/service/impl/UserServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/animate.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/bootstrap.min14ed.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/font-awesome.min93e3.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/htmleaf-demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/item.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/item_do.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/signin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/style.min862f.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/tab.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/uploadify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/fonts/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/fonts/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/fonts/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/fonts/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/login_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/login_bg_0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/login_pas.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/login_user.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/test/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/test/head_120.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/login.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/pages/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/pages/login.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/MyLearning.iml" afterPath="$PROJECT_DIR$/MyLearning.iml" />
+      <change beforePath="$PROJECT_DIR$/config/db.properties" afterPath="$PROJECT_DIR$/config/db.properties" />
+      <change beforePath="$PROJECT_DIR$/config/log4j.properties" afterPath="$PROJECT_DIR$/config/log4j.properties" />
+      <change beforePath="$PROJECT_DIR$/config/spring/applicationContext_service.xml" afterPath="$PROJECT_DIR$/config/spring/applicationContext_service.xml" />
+      <change beforePath="$PROJECT_DIR$/config/spring/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/config/spring/dispatcher-servlet.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/controller/ControllerOne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/controller/converter/CustomDateConverter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/ItemsMapper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/ItemsMapper.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/ItemsMapperCustom.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/ItemsMapperCustom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/OrderdetailMapper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/OrderdetailMapper.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/OrdersMapper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/OrdersMapper.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/UserMapper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/mapper/UserMapper.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/Items.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/ItemsCustom.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/ItemsExample$Criteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/ItemsExample$Criterion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/ItemsExample$GeneratedCriteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/ItemsExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/ItemsQueryVo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/Orderdetail.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrderdetailExample$Criteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrderdetailExample$Criterion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrderdetailExample$GeneratedCriteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrderdetailExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/Orders.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrdersExample$Criteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrdersExample$Criterion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrdersExample$GeneratedCriteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/OrdersExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/User.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/UserExample$Criteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/UserExample$Criterion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/UserExample$GeneratedCriteria.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/pojo/UserExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/service/ItemsService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/cn/com/hao/service/impl/ItemsServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/db.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/mybatis/sqlMapConfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/spring/applicationContext_dao.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/spring/applicationContext_service.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/spring/applicationContext_transaction.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/spring/dispatcher-servlet.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/asm-3.3.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/aspectjweaver-1.6.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/cglib-2.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/commons-pool-1.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/javassist-3.17.1-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/junit-4.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/log4j-api-2.0-rc1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/log4j-core-2.0-rc1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/mybatis-3.2.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/slf4j-api-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-aspects-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-context-support-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-jdbc-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-orm-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-test-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-tx-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/pages/itemsList.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/hao/controller/ControllerOne.java" afterPath="$PROJECT_DIR$/src/cn/com/hao/controller/ControllerOne.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.java" afterPath="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/hao/pojo/User.java" afterPath="$PROJECT_DIR$/src/cn/com/hao/pojo/User.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/hao/service/impl/ItemsServiceImpl.java" afterPath="$PROJECT_DIR$/src/cn/com/hao/service/impl/ItemsServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/controller/ControllerOne.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/controller/ControllerOne.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/mapper/UserMapper.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/mapper/UserMapper.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/mapper/UserMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/pojo/User.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/pojo/User.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/service/impl/ItemsServiceImpl.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/service/impl/ItemsServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/db.properties" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/db.properties" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/log4j.properties" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/log4j.properties" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/spring/applicationContext_service.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/spring/applicationContext_service.xml" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/spring/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/spring/dispatcher-servlet.xml" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,31 +152,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/log4j.properties">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/pages/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="53" column="105" lean-forward="false" selection-start-line="53" selection-start-column="97" selection-end-line="53" selection-end-column="105" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/spring/dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ControllerUser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/com/hao/controller/ControllerUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="42" column="54" lean-forward="false" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/com/hao/common/ResultGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ControllerOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/com/hao/controller/ControllerOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlainSocketImpl.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Oracle/Middleware/jdk160_21/src.zip!/java/net/PlainSocketImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="673" column="24" lean-forward="false" selection-start-line="673" selection-start-column="24" selection-end-line="673" selection-end-column="24" />
+              <caret line="13" column="60" lean-forward="false" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -53,7 +220,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -67,11 +237,18 @@
       <find>4.3cn.com.hao.pojo.</find>
       <find>cn.itcast.ssm.po.</find>
       <find>cn.com.hao.pojo.</find>
+      <find>gray-bg</find>
+      <find>div</find>
+      <find>middle-box</find>
+      <find>logo-name</find>
     </findStrings>
     <replaceStrings>
       <replace>4.3</replace>
       <replace>cn.com.hao.pojo.</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -86,7 +263,6 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/itemsList.jsp" />
         <option value="$PROJECT_DIR$/config/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/controller/converter/CustomDateConverter.java" />
-        <option value="$PROJECT_DIR$/config/spring/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/config/mybatis/sqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/config/spring/applicationContext_dao.xml" />
         <option value="$PROJECT_DIR$/config/spring/applicationContext-service.xml" />
@@ -94,20 +270,35 @@
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapperCustom.java" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/OrderdetailMapper.java" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/OrdersMapper.java" />
-        <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/service/ItemsService.java" />
-        <option value="$PROJECT_DIR$/src/cn/com/hao/service/impl/ItemsServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapper.java" />
-        <option value="$PROJECT_DIR$/src/cn/com/hao/controller/ControllerOne.java" />
-        <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapperCustom.xml" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/OrderdetailMapper.xml" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/OrdersMapper.xml" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapper.xml" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/config/db.properties" />
         <option value="$PROJECT_DIR$/web/WEB-INF/classes/log4j.properties" />
+        <option value="$PROJECT_DIR$/config/db.properties" />
+        <option value="$PROJECT_DIR$/web/css/style.min862f.css" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/MD5Util.java" />
+        <option value="$PROJECT_DIR$/config/spring/applicationContext_service.xml" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/service/impl/ItemsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/enums/ResultCodeEnum.java" />
+        <option value="$PROJECT_DIR$/web/pages/index.html" />
         <option value="$PROJECT_DIR$/config/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/controller/ControllerOne.java" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/common/Result.java" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/common/ResultGenerator.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/pages/login.html" />
+        <option value="$PROJECT_DIR$/web/js/login.js" />
+        <option value="$PROJECT_DIR$/config/spring/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/cn/com/hao/controller/ControllerUser.java" />
       </list>
     </option>
   </component>
@@ -124,10 +315,11 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="37" />
     <option name="width" value="1208" />
-    <option name="height" value="701" />
+    <option name="height" value="631" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -154,6 +346,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -169,40 +364,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MyLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="Mylearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mylearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mylearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mylearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mylearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mylearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="F:/BaiduNetdiskDownload/资料/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\Mylearning01\Mylearning\src\cn\com\hao\common" />
+      <recent name="D:\github\Mylearning01\Mylearning\web\pages" />
+      <recent name="D:\github\Mylearning01\Mylearning\web" />
+      <recent name="D:\github\Mylearning01\Mylearning\web\css" />
       <recent name="C:\Users\haozb\IdeaProjects\MyLearning\src\cn\com\hao\mapper" />
-      <recent name="C:\Users\haozb\IdeaProjects\MyLearning\config\spring" />
-      <recent name="C:\Users\haozb\IdeaProjects\MyLearning\config\mybatis" />
-      <recent name="C:\Users\haozb\IdeaProjects\MyLearning\config" />
-      <recent name="C:\Users\haozb\IdeaProjects\MyLearning\web\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,7 +424,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="WebLogic Server.MyLearning">
+  <component name="RunManager" selected="Remote.learning">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -306,6 +513,7 @@
     </configuration>
     <configuration name="MyLearning" type="WebLogic Instance" factoryName="Local" APPLICATION_SERVER_NAME="WebLogic " ALTERNATIVE_JRE_ENABLED="false">
       <option name="PORT" value="7001" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:7001/web/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="MyLearning:war exploded">
@@ -317,7 +525,7 @@
       <server-settings>
         <option name="DOMAIN_PATH" value="C:/Oracle/Middleware/user_projects/domains/Mylearning" />
         <option name="SERVER_NAME" value="AdminServer" />
-        <option name="DOMAIN_NAME" value="Mylearning" />
+        <option name="DOMAIN_NAME" value="MyLearning" />
         <option name="ADMIN_SERVER_HOST" value="localhost" />
         <option name="ADMIN_SERVER_PORT" value="7001" />
         <option name="TARGET_TYPE_NAME" value="TYPE_SERVER" />
@@ -326,9 +534,9 @@
         <option name="USERNAME" value="weblogic" />
         <option name="PASSWORD" value="11111111" />
       </server-settings>
-      <log_file path="D:/" checked="true" skipped="true" show_all="false" alias="Hao" />
+      <log_file path="D:/" checked="false" skipped="true" show_all="false" alias="Hao" />
+      <predefined_log_file id="WEBLOGIC_SERVER_LOG_FILE" enabled="false" />
       <predefined_log_file id="WEBLOGIC_DOMAIN_LOG_FILE" enabled="true" />
-      <predefined_log_file id="WEBLOGIC_SERVER_LOG_FILE" enabled="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="53935" />
@@ -410,19 +618,20 @@
       <updated>1520488641977</updated>
       <workItem from="1520488649255" duration="14458000" />
       <workItem from="1520514880761" duration="4697000" />
+      <workItem from="1520567500793" duration="7163000" />
+      <workItem from="1520579479424" duration="11415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19155000" />
+    <option name="totallyTimeSpent" value="37733000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1208" height="701" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -430,18 +639,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4401349" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43875968" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23193917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.486692" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22567114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2137628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -464,142 +673,30 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/cn/com/hao/controller/ControllerOne.java</url>
-          <line>26</line>
+          <line>25</line>
           <properties />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/com/hao/controller/ControllerUser.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Md5pwd</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.14.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-3.2.xsd" />
-    <entry file="jar://$PROJECT_DIR$/lib/spring-aop-4.3.14.RELEASE.jar!/org/springframework/aop/config/spring-aop-4.3.xsd" />
-    <entry file="file://$PROJECT_DIR$/web/pages/itemsList.jsp" />
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class" />
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvcfirst1208/WebRoot/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/log4j.properties" />
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class" />
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class" />
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class" />
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib/jstl-1.2.jar!/META-INF/c.tld" />
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib/jstl-1.2.jar!/META-INF/fmt.tld" />
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/pojo/Items.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/itemsList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/web/pages/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/dispatcher-servlet.xml" />
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-3.1.xsd" />
-    <entry file="file://$PROJECT_DIR$/config/dispatcher-servlet.xml" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/controller/converter/CustomDateConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/mybatisAnd SpringMvc/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib/commons-dbcp-1.2.2.jar!/org/apache/commons/dbcp/BasicDataSource.class" />
-    <entry file="file://$PROJECT_DIR$/config/spring/applicationContext_transaction.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/spring/applicationContext_dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#1229#1245#0" expanded="false" />
-            <element signature="e#1284#1297#0" expanded="false" />
-            <element signature="e#1341#1359#0" expanded="false" />
-            <element signature="e#1403#1421#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/mapper/OrderdetailMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/mapper/OrdersMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/spring/applicationContext_service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/service/impl/ItemsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/service/ItemsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/spring/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
@@ -618,9 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <marker date="1520502951872" expanded="true" signature="769:794" ph="SELECT items... items" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -628,33 +722,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-988">
           <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding>
-            <marker date="1520502952017" expanded="true" signature="3483:3590" ph="select from orderdetail" />
-            <marker date="1520502952017" expanded="true" signature="3677:3738" ph="delete from orderdetail... " />
-            <marker date="1520502952017" expanded="true" signature="3839:3862" ph="delete from orderdetail... " />
-            <marker date="1520502952017" expanded="true" signature="4040:4239" ph="insert into orderdetail... " />
-            <marker date="1520502952017" expanded="true" signature="5209:5241" ph="select count... orderdetail" />
-            <marker date="1520502952017" expanded="true" signature="6052:6276" ph="update orderdetail... " />
-            <marker date="1520502952017" expanded="true" signature="6485:6854" ph="update orderdetail... " />
-            <marker date="1520502952017" expanded="true" signature="6951:7150" ph="update orderdetail... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="54" />
-          <folding>
-            <marker date="1520502951924" expanded="true" signature="3510:3610" ph="select from user" />
-            <marker date="1520502951924" expanded="true" signature="3697:3751" ph="delete from user... " />
-            <marker date="1520502951924" expanded="true" signature="3845:3861" ph="delete from user... " />
-            <marker date="1520502951924" expanded="true" signature="4032:4245" ph="insert into user... " />
-            <marker date="1520502951924" expanded="true" signature="5317:5342" ph="select count... user" />
-            <marker date="1520502951924" expanded="true" signature="6233:6485" ph="update user... " />
-            <marker date="1520502951924" expanded="true" signature="6687:7122" ph="update user... " />
-            <marker date="1520502951924" expanded="true" signature="7212:7432" ph="update user... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -662,26 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding>
-            <marker date="1520502951838" expanded="true" signature="3127:3405" ph="select disti... orders" />
-            <marker date="1520502951838" expanded="true" signature="3528:3630" ph="select from orders" />
-            <marker date="1520502951838" expanded="true" signature="3717:3773" ph="delete from orders... " />
-            <marker date="1520502951838" expanded="true" signature="3869:3887" ph="delete from orders... " />
-            <marker date="1520502951838" expanded="true" signature="4060:4284" ph="insert into orders... " />
-            <marker date="1520502951838" expanded="true" signature="4373:5221" ph="insert into orders... " />
-            <marker date="1520502951838" expanded="true" signature="5371:5398" ph="select count... orders" />
-            <marker date="1520502951838" expanded="true" signature="5570:6104" ph="update orders... " />
-            <marker date="1520502951838" expanded="true" signature="6300:6563" ph="update orders... " />
-            <marker date="1520502951838" expanded="true" signature="6767:7213" ph="update orders... " />
-            <marker date="1520502951838" expanded="true" signature="7305:7536" ph="update orders... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -693,30 +741,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/mybatis/sqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/mapper/ItemsMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-665">
           <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <marker date="1520518991240" expanded="true" signature="4211:4359" ph="select , fro... " />
-            <marker date="1520518991240" expanded="true" signature="4446:4501" ph="delete from items... " />
-            <marker date="1520518991240" expanded="true" signature="4596:4613" ph="delete from items... " />
-            <marker date="1520518991240" expanded="true" signature="4785:5050" ph="insert into items... " />
-            <marker date="1520518991240" expanded="true" signature="6262:6288" ph="select count... items" />
-            <marker date="1520518991240" expanded="true" signature="7291:7595" ph="update items... " />
-            <marker date="1520518991240" expanded="true" signature="7768:8018" ph="update items... " />
-            <marker date="1520518991240" expanded="true" signature="8221:8745" ph="update items... " />
-            <marker date="1520518991240" expanded="true" signature="8845:9110" ph="update items... " />
-            <marker date="1520518991240" expanded="true" signature="9201:9419" ph="update items... " />
-            <marker date="1520518991240" expanded="true" signature="9527:9669" ph="select , fro... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,34 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="275" column="32" lean-forward="false" selection-start-line="275" selection-start-column="32" selection-end-line="275" selection-end-column="32" />
-          <folding>
-            <marker date="1520503043994" expanded="true" signature="4211:4359" ph="select , fro... " />
-            <marker date="1520503043994" expanded="true" signature="4446:4501" ph="delete from items... " />
-            <marker date="1520503043994" expanded="true" signature="4596:4613" ph="delete from items... " />
-            <marker date="1520503043994" expanded="true" signature="4785:5050" ph="insert into items... " />
-            <marker date="1520503043994" expanded="true" signature="6262:6288" ph="select count... items" />
-            <marker date="1520503043994" expanded="true" signature="7291:7595" ph="update items... " />
-            <marker date="1520503043994" expanded="true" signature="7768:8018" ph="update items... " />
-            <marker date="1520503043994" expanded="true" signature="8221:8745" ph="update items... " />
-            <marker date="1520503043994" expanded="true" signature="8845:9110" ph="update items... " />
-            <marker date="1520503043994" expanded="true" signature="9201:9419" ph="update items... " />
-            <marker date="1520503043994" expanded="true" signature="9527:9669" ph="select , fro... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="54" column="48" lean-forward="false" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -760,11 +760,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/log4j.properties" />
+    <entry file="jar://C:/Oracle/Middleware/jdk160_21/src.zip!/java/net/PlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="673" column="24" lean-forward="false" selection-start-line="673" selection-start-column="24" selection-end-line="673" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mybatis/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/MyLearning_war_exploded/WEB-INF/classes/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min14ed.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -772,27 +801,373 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/web/images/login_bg_0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/htmleaf-demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4253">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-681">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/style.min862f.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="4183" column="10" lean-forward="false" selection-start-line="4183" selection-start-column="1" selection-end-line="4183" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/pojo/UserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/开发/jdk/jdk1.6.0_45/src.zip!/java/security/MessageDigest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/spring/applicationContext_transaction.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/spring/applicationContext_dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/spring/applicationContext_service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/service/ItemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/service/impl/ItemsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="216" column="30" lean-forward="true" selection-start-line="216" selection-start-column="30" selection-end-line="216" selection-end-column="30" />
+          <folding>
+            <marker date="1520582064118" expanded="true" signature="3589:3689" ph="select from user" />
+            <marker date="1520582064118" expanded="true" signature="3776:3830" ph="delete from user... " />
+            <marker date="1520582064118" expanded="true" signature="3924:3940" ph="delete from user... " />
+            <marker date="1520582064118" expanded="true" signature="4111:4324" ph="insert into user... " />
+            <marker date="1520582064118" expanded="true" signature="5396:5421" ph="select count... user" />
+            <marker date="1520582064118" expanded="true" signature="6312:6564" ph="update user... " />
+            <marker date="1520582064118" expanded="true" signature="6766:7201" ph="update user... " />
+            <marker date="1520582064118" expanded="true" signature="7291:7511" ph="update user... " />
+            <marker date="1520582064118" expanded="true" signature="7597:7624" ph="SELECT /&gt;... " />
+            <marker date="1520582064118" expanded="true" signature="7597:7699" ph="SELECT from user" />
+            <marker date="1520582064118" expanded="true" signature="7597:7742" ph="SELECT from user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/开发/jdk/jdk1.6.0_45/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="151" column="17" lean-forward="false" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/enums/ResultCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#245#246#0" expanded="false" />
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#398#399#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#495#496#0" expanded="false" />
+            <element signature="e#540#541#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-3.2.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="549" column="4" lean-forward="false" selection-start-line="549" selection-start-column="4" selection-end-line="549" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/com/hao/controller/ControllerOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="41">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Oracle/Middleware/jdk160_21/src.zip!/java/net/PlainSocketImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/common/Result.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="673" column="24" lean-forward="false" selection-start-line="673" selection-start-column="24" selection-end-line="673" selection-end-column="24" />
+        <state relative-caret-position="174">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#347#348#0" expanded="false" />
+            <element signature="e#380#381#0" expanded="false" />
+            <element signature="e#429#430#0" expanded="false" />
+            <element signature="e#473#474#0" expanded="false" />
+            <element signature="e#507#508#0" expanded="false" />
+            <element signature="e#537#538#0" expanded="false" />
+            <element signature="e#583#584#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#647#648#0" expanded="false" />
+            <element signature="e#674#675#0" expanded="false" />
+            <element signature="e#709#710#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/http/converter/ResourceHttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/http/converter/ObjectToStringHttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1431498489294" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1431498489294" expanded="false" signature="158:454" ph="..." />
+            <marker date="1431498489294" expanded="true" signature="751:835" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="944:1232" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="1300:1390" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="1456:1561" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="1628:1734" ph="{...}" />
+            <marker date="1431498489294" expanded="false" signature="1782:1793" ph=" { " />
+            <marker date="1431498489294" expanded="false" signature="1835:1841" ph=" }" />
+            <marker date="1431498489294" expanded="true" signature="1958:2123" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="2222:2380" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="2453:2627" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/http/converter/json/MappingJacksonHttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <marker date="1431498489294" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1431498489294" expanded="false" signature="162:731" ph="..." />
+            <marker date="1431498489294" expanded="false" signature="1135:1146" ph=" { " />
+            <marker date="1431498489294" expanded="false" signature="1166:1172" ph=" }" />
+            <marker date="1431498489294" expanded="false" signature="1236:1247" ph=" { " />
+            <marker date="1431498489294" expanded="false" signature="1268:1274" ph=" }" />
+            <marker date="1431498489294" expanded="true" signature="1396:1452" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="1531:1590" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="1700:1759" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="1853:1924" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="2070:2723" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="2873:4225" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="4307:4533" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="4596:4932" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="5028:5478" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="5539:6567" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="6653:7227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/org/springframework/http/converter/StringHttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <marker date="1431498489294" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1431498489294" expanded="false" signature="158:567" ph="..." />
+            <marker date="1431498489294" expanded="false" signature="910:921" ph=" { " />
+            <marker date="1431498489294" expanded="false" signature="943:949" ph=" }" />
+            <marker date="1431498489294" expanded="true" signature="1013:1287" ph="{...}" />
+            <marker date="1431498489294" expanded="false" signature="1354:1365" ph=" { " />
+            <marker date="1431498489294" expanded="false" signature="1410:1416" ph=" }" />
+            <marker date="1431498489294" expanded="false" signature="1461:1472" ph=" { " />
+            <marker date="1431498489294" expanded="false" signature="1506:1512" ph=" }" />
+            <marker date="1431498489294" expanded="true" signature="1629:1833" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="1904:2168" ph="{...}" />
+            <marker date="1431498489294" expanded="true" signature="2265:2595" ph="{...}" />
+            <marker date="1431498489294" expanded="false" signature="2646:2657" ph=" { " />
+            <marker date="1431498489294" expanded="false" signature="2687:2693" ph=" }" />
+            <marker date="1431498489294" expanded="true" signature="2760:2888" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="60" lean-forward="false" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="53" column="105" lean-forward="false" selection-start-line="53" selection-start-column="97" selection-end-line="53" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/spring/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/common/ResultGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/com/hao/controller/ControllerUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="42" column="54" lean-forward="false" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

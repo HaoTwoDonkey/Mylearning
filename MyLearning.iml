@@ -38,15 +38,5 @@
         <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://F:/BaiduNetdiskDownload/资料/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://F:/BaiduNetdiskDownload/资料/SpringMVC部分【第1天相关资料及源代码】/code/springmvc_mybatis1208/WebRoot/WEB-INF/lib" recursive="false" />
-      </library>
-    </orderEntry>
   </component>
 </module>

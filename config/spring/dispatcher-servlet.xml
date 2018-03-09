@@ -16,12 +16,14 @@
     <!--base-package ：扫描的controller的包名-->
     <context:component-scan base-package="cn.com.hao.controller"></context:component-scan>
 
+
     <!--注解映射器 -->
     <!-- <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/> -->
     <!--注解适配器 -->
     <!-- <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter"/> -->
     <!--处理器映射器和处理器适配器的注解驱动  代替上面的配置-->
-    <mvc:annotation-driven conversion-service="conversionService"></mvc:annotation-driven>
+    <mvc:annotation-driven conversion-service="conversionService">
+    </mvc:annotation-driven>
 
     <!-- 自定义参数绑定 -->
     <bean id="conversionService" class="org.springframework.format.support.FormattingConversionServiceFactoryBean">
