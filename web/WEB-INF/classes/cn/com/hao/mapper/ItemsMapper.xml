@@ -70,7 +70,7 @@
     </where>
   </sql>
   <sql id="Base_Column_List" >
-    id, name, price, pic, createtime
+    id, name, price, pic,  createtime
   </sql>
   <sql id="Blob_Column_List" >
     detail
@@ -273,6 +273,10 @@
     ,
     <include refid="Blob_Column_List" />
     from items
-    where name like '%${value}%'
+    <where>
+      <if test="value != null">
+        and name like '%${value}%'
+      </if>
+    </where>
   </select>
 </mapper>

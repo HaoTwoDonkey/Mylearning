@@ -25,7 +25,7 @@ Login = {
             data: $('#adminlogin').serialize(),
             success: function (result) {
                 if (result.resultCode == 666) {
-                    window.location.href = "/web/index.jsp";
+                    window.location.href = "/web/pages/main.html";
                 }else{
                     $("#errorText").html(result.message);
                 }

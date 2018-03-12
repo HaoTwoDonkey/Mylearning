@@ -17,7 +17,7 @@
         var url;
 
         function addTab(url, text, iconCls) {
-            var content = "<iframe frameborder=0 scrolling='auto' style='width:100%;height:100%' src='${pageContext.request.contextPath}/views/"
+            var content = "<iframe frameborder=0 scrolling='auto' style='width:100%;height:100%' src='"
                 + url + "'></iframe>";
             $("#tabs").tabs("add", {
                 title: text,
@@ -79,7 +79,7 @@
              data-options="selected:true,iconCls:'icon-wenzhangs'"
              style="padding: 10px;height:10px;">
             <a
-                    href="javascript:openTab(' 文章管理-ue','articleManage-ue.jsp','icon-wenzhang')"
+                    href="javascript:openTab(' 订单查询','orderList.html','icon-wenzhang')"
                     class="easyui-linkbutton"
                     data-options="plain:true,iconCls:'icon-wenzhang'"
                     style="width: 150px;">订单查询</a>

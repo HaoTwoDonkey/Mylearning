@@ -24,6 +24,15 @@
     <!--处理器映射器和处理器适配器的注解驱动  代替上面的配置-->
     <mvc:annotation-driven conversion-service="conversionService">
     </mvc:annotation-driven>
+    <mvc:annotation-driven>
+        <!--返回字符串的date 转换格式-->
+        <mvc:message-converters>
+            <bean class="org.springframework.http.converter.json.MappingJacksonHttpMessageConverter">
+                <property name="objectMapper" ref="customObjectMapper"></property>
+            </bean>
+        </mvc:message-converters>
+    </mvc:annotation-driven>
+    <bean id="customObjectMapper" class="cn.com.hao.controller.converter.CustomObjectMapper"></bean>
 
     <!-- 自定义参数绑定 -->
     <bean id="conversionService" class="org.springframework.format.support.FormattingConversionServiceFactoryBean">
