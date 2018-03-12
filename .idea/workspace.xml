@@ -7,23 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfc342a2-bb07-4037-a300-28413dbad667" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/controller/ControllerItems.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/com/hao/controller/converter/CustomObjectMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/orderList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/pages/orderList.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/config/db.properties" afterPath="$PROJECT_DIR$/config/db.properties" />
-      <change beforePath="$PROJECT_DIR$/config/spring/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/config/spring/dispatcher-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapper.xml" afterPath="$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/cn/com/hao/pojo/Items.java" afterPath="$PROJECT_DIR$/src/cn/com/hao/pojo/Items.java" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/mapper/ItemsMapper.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/mapper/ItemsMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/pojo/Items.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/com/hao/pojo/Items.class" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/db.properties" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/db.properties" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/spring/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/spring/dispatcher-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/web/js/login.js" afterPath="$PROJECT_DIR$/web/js/login.js" />
-      <change beforePath="$PROJECT_DIR$/web/pages/main.html" afterPath="$PROJECT_DIR$/web/pages/main.html" />
+      <change beforePath="$PROJECT_DIR$/web/js/orderList.js" afterPath="$PROJECT_DIR$/web/js/orderList.js" />
+      <change beforePath="$PROJECT_DIR$/web/pages/orderList.html" afterPath="$PROJECT_DIR$/web/pages/orderList.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,22 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="orderList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="orderList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/js/orderList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="391">
+              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="orderList.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="orderList.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/pages/orderList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="77" />
-              <folding />
+            <state relative-caret-position="418">
+              <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,8 +136,8 @@
         <option value="$PROJECT_DIR$/src/cn/com/hao/mapper/ItemsMapper.xml" />
         <option value="$PROJECT_DIR$/src/cn/com/hao/pojo/Items.java" />
         <option value="$PROJECT_DIR$/config/spring/dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/web/pages/orderList.html" />
         <option value="$PROJECT_DIR$/web/js/orderList.js" />
+        <option value="$PROJECT_DIR$/web/pages/orderList.html" />
       </list>
     </option>
   </component>
@@ -508,15 +495,16 @@
       <workItem from="1520579479424" duration="11415000" />
       <workItem from="1520595994369" duration="7058000" />
       <workItem from="1520819909926" duration="22000" />
-      <workItem from="1520827344396" duration="13683000" />
+      <workItem from="1520827344396" duration="14281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58496000" />
+    <option name="totallyTimeSpent" value="59094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="0" width="1208" height="738" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1041,19 +1029,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/pages/orderList.html">
+    <entry file="file://$PROJECT_DIR$/web/js/orderList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="77" />
+        <state relative-caret-position="391">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/orderList.js">
+    <entry file="file://$PROJECT_DIR$/web/pages/orderList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="418">
+          <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

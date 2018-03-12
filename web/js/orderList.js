@@ -25,6 +25,9 @@ OrderList = {
         M = (date.getMonth()+1 < 10 ? '0'+(date.getMonth()+1) : date.getMonth()+1) + '-';
         D = date.getDate() + ' ';
         return Y+M+D;
+    },
+    doAdd : function () {
+        $("#dlg").dialog("open").dialog("setTitle", "添加文本信息");
     }
 
 

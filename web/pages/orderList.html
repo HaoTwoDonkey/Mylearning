@@ -40,7 +40,7 @@
 
 <div id="tb">
     <div>
-        <a href="javascript:;" class="easyui-linkbutton"
+        <a href="javascript:;OrderList.doAdd()" class="easyui-linkbutton"
            iconCls="icon-add" plain="true">添加</a> <a
             href="javascript:;"
             class="easyui-linkbutton" iconCls="icon-edit" plain="true">修改</a> <a
@@ -50,41 +50,39 @@
     <div>
         &nbsp;标题：&nbsp;<input type="text" id="itemName" size="20"
                               onkeydown="if(event.keyCode==13) searchArticle()"/>&nbsp; <a
-            href="javascript:searchArticle()" class="easyui-linkbutton"
+            href="javascript:OrderList.queryList()" class="easyui-linkbutton"
             iconCls="icon-search" plain="true">搜索</a>
     </div>
 </div>
 
 <div id="dlg" class="easyui-dialog"
-     style="width: 850px;height:555px;padding: 10px 20px; position: relative; z-index:1000;display:none;"
+     style="width: 350px;height:300px;padding: 10px 20px; position: relative; z-index:1000;"
      closed="true" buttons="#dlg-buttons">
     <form id="fm" method="post">
-        <table cellspacing="8px">
+        <table>
             <tr>
-                <td>标题：</td>
-                <td><input type="text" id="title" name="articleTitle"
+                <td>名称：</td>
+                <td><input type="text" id="name" name="name"
                            class="easyui-validatebox" required="true"/>&nbsp;<font
                         color="red">*</font>
                     <input id="articleIdfm" name="id" type="hidden" value="0">
                 </td>
             </tr>
             <tr>
-                <td>添加人：</td>
-                <td><input type="text" id="addName" name="addName"/>
+                <td>价格：</td>
+                <td><input type="text" id="price" name="price"/>
                 </td>
             </tr>
             <tr>
-                <td>详细内容</td>
-                <td>
-                    <textarea id="editor"
-                              style="width:800px;height:400px;visibility:hidden;"></textarea>
+                <td>描述</td>
+                <td><input type="text" id="detail" name="detail"/>
                 </td>
             </tr>
         </table>
     </form>
 </div>
 
-<div id="dlg-buttons" style="display:none;">
+<div id="dlg-buttons">
     <a href="javascript:saveArticle()" class="easyui-linkbutton"
        iconCls="icon-ok">保存</a> <a href="javascript:closeArticleDialog()"
                                    class="easyui-linkbutton" iconCls="icon-cancel">关闭</a>
