@@ -27,7 +27,35 @@ OrderList = {
         return Y+M+D;
     },
     doAdd : function () {
-        $("#dlg").dialog("open").dialog("setTitle", "添加文本信息");
+        $("#dlg").dialog("open").dialog("setTitle", "新增订单信息");
+    },
+    doSave : function () {
+        if(!$('#ff').form('validate')){
+            return;
+        }
+        $.ajax({
+            type: "post",
+            url: "/web/orderList/addItem.action",
+            data: {
+                name : $("#name").val(),
+                price : $("#price").val(),
+                detail : $("#detail").val()
+            },
+            dataType: "json",
+            success: function (data) {
+                if(data!="error"){
+                    OrderList.queryList();
+                }else{
+                    alert("新增失败");
+                }
+            },
+            error: function (err,err1,err2) {
+            }
+        });
+
+    },
+    doCanCel :function () {
+        $("#dlg").dialog("close");
     }
 
 

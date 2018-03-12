@@ -11,4 +11,6 @@ import java.util.List;
  */
 public interface ItemsService {
     List<Items> findItemsListByName(String name);
+
+    Integer addOrderItem(Items items);
 }

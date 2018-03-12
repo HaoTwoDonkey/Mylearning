@@ -37,4 +37,6 @@ public interface ItemsMapper {
     int updateByPrimaryKey(Items record);
 
     List<Items> findItemsListByName(String name);
+
+    Integer addOrderItem(Items items);
 }

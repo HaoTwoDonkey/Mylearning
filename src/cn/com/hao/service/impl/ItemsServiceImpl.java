@@ -22,4 +22,9 @@ public class ItemsServiceImpl implements ItemsService {
     public List<Items> findItemsListByName(String name) {
         return itemsMapper.findItemsListByName(name);
     }
+
+    @Override
+    public Integer addOrderItem(Items items) {
+        return itemsMapper.addOrderItem(items);
+    }
 }
