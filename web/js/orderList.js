@@ -9,7 +9,7 @@ OrderList = {
     gird : null,
     init : function () {
         OrderList.gird = $('#orderGrid');
-        OrderList.queryList();
+        //OrderList.queryList();
     },
     queryList : function () {
         OrderList.gird.datagrid('load',{

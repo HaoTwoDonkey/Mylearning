@@ -1,5 +1,6 @@
 package cn.com.hao.controller;
 
+import cn.com.hao.annotation.AnnoLog;
 import cn.com.hao.common.Result;
 import cn.com.hao.common.ResultGenerator;
 import cn.com.hao.pojo.Items;
@@ -41,6 +42,7 @@ public class ControllerItems {
     }
 
     @RequestMapping("/queryListByPage")
+    @AnnoLog(operationType="查询商品列表分页")
     public @ResponseBody Map findItemsListByPage(ItemsCustom itemsCustom){
         //设置分页参数
         itemsCustom.setStartNum((itemsCustom.getPage()-1)*itemsCustom.getRows());

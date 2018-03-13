@@ -15,4 +15,6 @@
 <!-- 商品管理的service
 <bean id="itemsService" class="cn.com.hao.service.impl.ItemsServiceImpl"/>-->
 	<context:component-scan base-package="cn.com.hao.service"/>
+    <context:component-scan base-package="cn.com.hao.Interceptor"></context:component-scan>
+	<!--<aop:aspectj-autoproxy proxy-target-class="true" />-->
 </beans>
