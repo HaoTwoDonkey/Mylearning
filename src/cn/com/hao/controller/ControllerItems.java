@@ -48,8 +48,10 @@ public class ControllerItems {
         if(items.size()==0){
             return new HashMap();
         }
+        itemsCustom.setStartNum(null);
+        Integer count = itemsService.queryListNumByPage(itemsCustom);
         Map map = new HashMap(2);
-        map.put("total",20);
+        map.put("total",count);
         map.put("rows",items);
         return map;
     }

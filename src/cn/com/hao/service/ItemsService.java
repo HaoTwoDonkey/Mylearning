@@ -16,4 +16,6 @@ public interface ItemsService {
     Integer addOrderItem(Items items);
 
     List<Items> findItemsListByPage(ItemsCustom itemsCustom);
+
+    Integer queryListNumByPage(ItemsCustom itemsCustom);
 }

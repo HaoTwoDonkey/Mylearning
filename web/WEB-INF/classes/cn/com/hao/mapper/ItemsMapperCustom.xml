@@ -23,7 +23,7 @@
 			limit ${startNum},${rows}
 		</if>
 	</sql>
-  	
+
   	<!-- 商品列表查询 -->
   	<!-- parameterType传入包装对象(包装了查询条件)
   		resultType建议使用扩展对象
@@ -41,6 +41,9 @@
 		<include refid="query_items_where_page"></include>
 	</select>
 
-
+    <select id="queryListNumByPage" parameterType="ItemsCustom" resultType="java.lang.Integer">
+        select count(1) from items
+        <include refid="query_items_where_page"></include>
+    </select>
   	
 </mapper>

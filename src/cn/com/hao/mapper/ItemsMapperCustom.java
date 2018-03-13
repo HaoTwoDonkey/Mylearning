@@ -13,4 +13,6 @@ public interface ItemsMapperCustom {
 	public List<ItemsCustom> findItemsList(ItemsQueryVo itemsQueryVo)throws Exception;
     //有分页的查询
     List<Items> findItemsListByPage(ItemsCustom itemsCustom);
+
+    Integer queryListNumByPage(ItemsCustom itemsCustom);
 }

@@ -38,5 +38,10 @@ public class ItemsServiceImpl implements ItemsService {
         return itemsMapperCustom.findItemsListByPage(itemsCustom);
     }
 
+    @Override
+    public Integer queryListNumByPage(ItemsCustom itemsCustom) {
+        return itemsMapperCustom.queryListNumByPage(itemsCustom);
+    }
+
 
 }
