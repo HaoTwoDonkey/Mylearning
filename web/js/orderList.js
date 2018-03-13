@@ -41,12 +41,12 @@ OrderList = {
                 price : $("#price").val(),
                 detail : $("#detail").val()
             },
-            dataType: "json",
             success: function (data) {
-                if(data!="error"){
-                    OrderList.queryList();
-                }else{
+                if(data.resultCode!="666"){
                     alert("新增失败");
+                }else{
+                    OrderList.doCanCel();
+                    OrderList.queryList();
                 }
             },
             error: function (err,err1,err2) {

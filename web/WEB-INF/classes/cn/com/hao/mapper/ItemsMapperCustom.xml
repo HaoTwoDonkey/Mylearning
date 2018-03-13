@@ -11,8 +11,18 @@
    				items.name LIKE '%${itemsCustom.name}%'
    			</if>
    		</if>
-	
    </sql>
+
+	<sql id="query_items_where_page">
+		<where>
+			<if test="name != null">
+				name like '%${name}%'
+			</if>
+		</where>
+		<if test="startNum != null and rows != null">
+			limit ${startNum},${rows}
+		</if>
+	</sql>
   	
   	<!-- 商品列表查询 -->
   	<!-- parameterType传入包装对象(包装了查询条件)
@@ -25,5 +35,12 @@
   			<include refid="query_items_where"></include>
   		</where>
   	</select>
+
+	<select id="findItemsListByPage" parameterType="ItemsCustom" resultType="Items">
+		SELECT * from items
+		<include refid="query_items_where_page"></include>
+	</select>
+
+
   	
 </mapper>

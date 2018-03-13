@@ -1,7 +1,9 @@
 package cn.com.hao.service.impl;
 
 import cn.com.hao.mapper.ItemsMapper;
+import cn.com.hao.mapper.ItemsMapperCustom;
 import cn.com.hao.pojo.Items;
+import cn.com.hao.pojo.ItemsCustom;
 import cn.com.hao.service.ItemsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -18,6 +20,9 @@ public class ItemsServiceImpl implements ItemsService {
     @Autowired
     private ItemsMapper itemsMapper;
 
+    @Autowired
+    ItemsMapperCustom itemsMapperCustom;
+
     @Override
     public List<Items> findItemsListByName(String name) {
         return itemsMapper.findItemsListByName(name);
@@ -27,4 +32,11 @@ public class ItemsServiceImpl implements ItemsService {
     public Integer addOrderItem(Items items) {
         return itemsMapper.addOrderItem(items);
     }
+
+    @Override
+    public List<Items> findItemsListByPage(ItemsCustom itemsCustom) {
+        return itemsMapperCustom.findItemsListByPage(itemsCustom);
+    }
+
+
 }

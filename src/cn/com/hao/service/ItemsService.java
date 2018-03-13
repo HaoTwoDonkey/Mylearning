@@ -1,6 +1,7 @@
 package cn.com.hao.service;
 
 import cn.com.hao.pojo.Items;
+import cn.com.hao.pojo.ItemsCustom;
 
 import java.util.List;
 
@@ -13,4 +14,6 @@ public interface ItemsService {
     List<Items> findItemsListByName(String name);
 
     Integer addOrderItem(Items items);
+
+    List<Items> findItemsListByPage(ItemsCustom itemsCustom);
 }

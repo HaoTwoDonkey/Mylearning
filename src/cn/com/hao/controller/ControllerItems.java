@@ -3,6 +3,7 @@ package cn.com.hao.controller;
 import cn.com.hao.common.Result;
 import cn.com.hao.common.ResultGenerator;
 import cn.com.hao.pojo.Items;
+import cn.com.hao.pojo.ItemsCustom;
 import cn.com.hao.service.ItemsService;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +13,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * @author : hao
@@ -36,13 +39,30 @@ public class ControllerItems {
         }
         return items;
     }
+
+    @RequestMapping("/queryListByPage")
+    public @ResponseBody Map findItemsListByPage(ItemsCustom itemsCustom){
+        //设置分页参数
+        itemsCustom.setStartNum((itemsCustom.getPage()-1)*itemsCustom.getRows());
+        List<Items> items = itemsService.findItemsListByPage(itemsCustom);
+        if(items.size()==0){
+            return new HashMap();
+        }
+        Map map = new HashMap(2);
+        map.put("total",20);
+        map.put("rows",items);
+        return map;
+    }
+
+
+
     @RequestMapping("/addItem")
-    public String addOrderItem(Items items){
+    public @ResponseBody Result addOrderItem(Items items){
         log.debug("__________获取到名字没有"+items.getName());
         Integer lastId = itemsService.addOrderItem(items);
         if(lastId == null){
-            return "error";
+            return ResultGenerator.genFailResult("error");
         }
-        return lastId.toString();
+        return ResultGenerator.genSuccessResult(lastId);
     }
 }
