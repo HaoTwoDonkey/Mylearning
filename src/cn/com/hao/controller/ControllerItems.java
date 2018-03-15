@@ -5,7 +5,10 @@ import cn.com.hao.common.Result;
 import cn.com.hao.common.ResultGenerator;
 import cn.com.hao.pojo.Items;
 import cn.com.hao.pojo.ItemsCustom;
+import cn.com.hao.pojo.PageBean;
 import cn.com.hao.service.ItemsService;
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -43,19 +46,18 @@ public class ControllerItems {
 
     @RequestMapping("/queryListByPage")
     @AnnoLog(operationType="查询商品列表分页")
-    public @ResponseBody Map findItemsListByPage(ItemsCustom itemsCustom){
-        //设置分页参数
-        itemsCustom.setStartNum((itemsCustom.getPage()-1)*itemsCustom.getRows());
+    public @ResponseBody
+    PageBean<Items> findItemsListByPage(ItemsCustom itemsCustom){
+
+        PageHelper.startPage(itemsCustom.getPage(),itemsCustom.getRows());
         List<Items> items = itemsService.findItemsListByPage(itemsCustom);
         if(items.size()==0){
-            return new HashMap();
+            return new PageBean(0,new ArrayList());
         }
-        itemsCustom.setStartNum(null);
-        Integer count = itemsService.queryListNumByPage(itemsCustom);
-        Map map = new HashMap(2);
-        map.put("total",count);
-        map.put("rows",items);
-        return map;
+        PageInfo<Items> pageInfo = new PageInfo<Items>(items);
+
+        PageBean<Items> pageBean = new PageBean<Items>(pageInfo.getTotal(),pageInfo.getList());
+        return pageBean;
     }
 
 

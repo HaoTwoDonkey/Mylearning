@@ -19,9 +19,6 @@
 				name like '%${name}%'
 			</if>
 		</where>
-		<if test="startNum != null and rows != null">
-			limit ${startNum},${rows}
-		</if>
 	</sql>
 
   	<!-- 商品列表查询 -->
